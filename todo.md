@@ -1,4 +1,5 @@
 # Expected evolution
+* Write a make file
 ## Single threaded downloads:
 * Mock curl command
 * Support mutliple URLs download sequentially
